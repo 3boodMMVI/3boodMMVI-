@@ -1,11 +1,11 @@
 <div align="center">
 
 ```
- █████╗ ██████╗ ██████╗  ██████╗ ██████╗ 
-  ╔══██╗██╔══██╗██╔══██╗██╔═══██╗██╔═══██╗
-╚█████╔╝██████╔╝██║  ██║██║   ██║██║   ██║
-  ╔══██╗██╔══██╗██║  ██║██║   ██║██║   ██║
-╚█████╔╝██████╔╝██████╔╝╚██████╔╝██████╔╝
+ █████╗ ██████╗  ██████╗  ██████╗ ██████╗ 
+╔════██╗██╔══██╗██╔═══██╗██╔═══██╗██╔══██╗
+╚█████╔╝██████╔╝██║   ██║██║   ██║██║  ██║
+╔════██╗██╔══██╗██║   ██║██║   ██║██║  ██║
+╚█████╔╝██████╔╝ ██████╔╝╚██████╔╝██████╔╝
  ╚════╝ ╚═════╝ ╚═════╝  ╚═════╝  ╚═════╝ 
 ```
 
@@ -14,6 +14,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-shabaro-mmv1/)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/3bood)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/3bood.mmvi/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=3boodMMVI&style=for-the-badge&color=0e75b6)
 
 </div>
 
@@ -26,6 +28,7 @@ I'm a **Computer Systems Technician** student at **Fanshawe College** (London, O
 - 🔨 Currently building: **[File-Cleaner](https://github.com/3boodMMVI/File-Cleaner)** — a smart Windows file organizer
 - 🎓 Studying: Computer Systems Technician @ Fanshawe College
 - 🌍 Based in: London, Ontario, Canada
+- ⚡ I prefer the command line over a GUI any day
 
 ---
 
@@ -37,7 +40,6 @@ I'm a **Computer Systems Technician** student at **Fanshawe College** (London, O
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Tools & Platforms**
 
@@ -61,15 +63,13 @@ I'm a **Computer Systems Technician** student at **Fanshawe College** (London, O
 
 ---
 
-## 📊 GitHub Stats
+## 📈 What I'm Working On
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3boodMMVI&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3boodMMVI&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+| Status | Project | Stack |
+|--------|---------|-------|
+| 🟢 Active | [File-Cleaner](https://github.com/3boodMMVI/File-Cleaner) | Python, Windows API |
+| 🔵 Learning | Networking & Systems Admin | Cisco, Linux |
+| 🟡 Exploring | Home Lab / NAS Setup | Self-hosted |
 
 ---
 
